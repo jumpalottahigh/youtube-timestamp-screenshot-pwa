@@ -1,4 +1,4 @@
-# YouTube Screenshot
+# YouTube Screenshot PWA
 
 ![Youtube Screenshot](./src/images/youtube-timestamp-screenshot.png)
 
@@ -15,6 +15,10 @@ Paste a YouTube video url **including the timestamp parameter at the end** (`t=1
 https://www.youtube.com/watch?v=UQgrKeQZNCg&t=1m55s
 
 Wait a bit if the heroku dyno is not up yet (a bit slower on first screenshot). Enjoy!
+
+Repository with the backend Node.js code:
+
+https://github.com/jumpalottahigh/youtube-timestamp-screenshot
 
 ## Social Links
 
