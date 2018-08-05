@@ -36,7 +36,7 @@ module.exports = {
         background_color: '#1960a0',
         theme_color: '#1960a0',
         display: 'minimal-ui',
-        icon: 'src/images/youtube-timestamp-screenshot.png', // This path is relative to the root of the site.
+        icon: 'src/images/youtube-timestamp-screenshot-icon-512.png', // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-offline',
