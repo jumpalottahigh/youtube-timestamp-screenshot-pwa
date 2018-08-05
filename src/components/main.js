@@ -73,7 +73,7 @@ export default class Main extends React.Component {
 
     // Fetch the screenshot
     let { value } = e.target[0]
-    let URL = `${CONFIG.DEBUG_URL}${value}`
+    let URL = `${CONFIG.APP_URL}${value}`
     this.getBase64(URL)
 
     // Update the UI
